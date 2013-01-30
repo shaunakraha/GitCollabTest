@@ -1,1 +1,4 @@
 Let's add some test text to this document
+
+Ok, so I can pull without any password or anything. That's ok for a public repo.
+Let's see what happens if I push it now.
