@@ -5,3 +5,9 @@ Let's see what happens if I push it now.
 
 Doesn't work. Let's change it some more
 
+<<<<<<< HEAD
+Creating new edit branch - change in file is for that
+=======
+Editing Master while file has already been edited in branch
+>>>>>>> origin/master
+
